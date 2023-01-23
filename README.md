@@ -1,2 +1,2 @@
 # hammermancodes.github.io
-A place to store the hammer man's projects from old and new.
+A place to store a simple website.
